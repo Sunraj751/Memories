@@ -13,7 +13,7 @@ app.use(bodyParser.json({limit: "30mb", extended: true}));
 app.use(bodyParser.urlencoded({limit: "30mb", extended: true}));
 app.use(cors());
 
-const CONNECTION_URL = 'mongodb+srv://<username>:<password>@cluster0.0jfek1u.mongodb.net/?retryWrites=true&w=majority';
+const CONNECTION_URL = 'mongodb+srv://sunraj123:sunraj123@cluster0.0jfek1u.mongodb.net/?retryWrites=true&w=majority';
 const PORT = process.env.PORT || 3004;
 
 mongoose.connect(CONNECTION_URL, {useNewUrlParser: true, useUnifiedTopology: true})
