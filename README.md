@@ -1,9 +1,9 @@
 # Memories 
-  1. This app is fully responsive MERN social media application with:__ 
-    -  email and Google Authentication__
-    -  Pagination__ 
-    -  Search and filtering capabilites__  
-    -  comments__  
+  1. This app is fully responsive MERN social media application with:  
+    -  email and Google Authentication. 
+    -  Pagination.  
+    -  Search and filtering capabilites.  
+    -  comments.   
 # Documentation
   -  The code for the app is explained with it's associated .md file. 
   -  The documentation is done in a way which makes it a step-by-step guide.  
