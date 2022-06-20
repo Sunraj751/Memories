@@ -1,6 +1,6 @@
 # Memories 
   1. This app is fully responsive MERN social media application with:  
-    -  email and Google Authentication. 
+    -  email and Google Authentication  
     -  Pagination.  
     -  Search and filtering capabilites.  
     -  comments.   
